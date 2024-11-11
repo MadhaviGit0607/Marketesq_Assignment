@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import BookingCard from './BookingCard';
 import BookingForm from './BookingForm';
-import Discover from './Discover'; // Import Discover Section
-import Services from './Services'; // Import Services Section
+import Discover from './Discover';
+import Services from './Services';
 import { FaFacebookF, FaInstagram } from 'react-icons/fa';
 import '../styles.css';
 
